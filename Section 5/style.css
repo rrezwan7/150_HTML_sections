@@ -57,7 +57,7 @@ p:last-child {
 }
 
 .section-bg-1::after {
-    background-image: url(/assets/bg-1.jpg);
+    background-image: url(assets/bg-1.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
